@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🔹 Programming: Python<br>🔹 Web Development: HTML, CSS, JavaScript, TypeScript e Angular<br>🔹 Databases: MySQL e SSMS</p>
+<p align="left">🔹 Programming: Python<br>🔹 Web Development: HTML, CSS, JavaScript e Django<br>🔹 Databases: MySQL e SSMS</p>
 
 ###
 
